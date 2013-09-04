@@ -25,7 +25,7 @@ textarea{overflow:auto;vertical-align:top;}
 ::-webkit-scrollbar-track{-webkit-box-shadow:inset 0 0 6px rgba(0, 0, 0, 0.3);-webkit-border-radius:10px;border-radius:10px;}
 ::-webkit-scrollbar-thumb{-webkit-border-radius:10px;border-radius:10px;background:rgba(0, 0, 0, 0.5);}
 ::-webkit-scrollbar-thumb:window-inactive{background:rgba(0, 0, 0, 0.2);}
-.wrap{margin:0 auto;}
+.wrap{margin:0 auto; height: 200px;}
 .all-caps{text-transform:uppercase;}
 .pull-left{float:left;}
 .pull-right{float:right;}
@@ -33,8 +33,11 @@ textarea{overflow:auto;vertical-align:top;}
 b,i,strong,em,blockquote,p,q,span,figure,img,h1,h2,header,input,a{-webkit-transition:all 0.2s ease;-moz-transition:all 0.2s ease;-ms-transition:all 0.2s ease;-o-transition:all 0.2s ease;transition:all 0.2s ease;}
 body{font-family:'source-sans-pro',sans-serif;color:#222222;}
 h1,h2,h3,h4,h5,h6{font-family:'source-sans-pro',sans-serif;}
-a{text-decoration:none;color:#222222;}a:visited{color:#555555;}
-a:hover{color:#000000;}
+
+a{color:#00e; text-decoration: underline;}
+a:link    { color: #00e; }
+a:visited { color: #551a8b }
+
 a:focus{outline:thin dotted;color:#000000;}
 a:hover,a:active{outline:0;}
 .link-arrow{font-weight:100;text-decoration:underline;font-style:normal;}

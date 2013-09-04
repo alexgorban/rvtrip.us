@@ -1,28 +1,20 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
+title: Об этом блоге
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature: 20130824_184945.jpg
 ---
 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the followup to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes).
+В этом небольшом блоге мы с моей женой попытались передать незабываемые 
+впечатления, которые мы получили в ходе поездки на доме на колесах по западной части США. 
+Четыре месяца назад (в апреле 2013 года) мы приехали в США и эта наша первая такая 
+длительная поездка (примерно 6500км.) по этой новой для нас стране.
 
-## So Simple Theme is all about:
+Целевой аудиторией этого блога в первую очередь являются друзья нашей семьи и родственники.
+В ходе поездки у нас накопилось множество эмоций, наблюдений и фотографий. 
+Надеюсь, что вам они покажутся интересными.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
-
-[^1]: Example: *domain.com/category-name/post-title*
+Данный блог ни каким образом не претендует на полноту описания посещенных мест. 
+Но если у вас возникнет желания что-то уточнить или подробней узнать, 
+мы будем рады исправить или дополнить содержание этого миниатюрного блога.
