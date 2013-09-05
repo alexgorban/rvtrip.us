@@ -3,10 +3,6 @@ layout: post
 title: "Итоги: расходы"
 modified: 2013-09-05
 category: articles
-tags: gps
-havelogo: true
-image:
-    feature: us_trip.jpg
 comments: true
 ---
 

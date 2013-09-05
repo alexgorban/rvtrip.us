@@ -4,7 +4,7 @@ title: Большой каньон
 modified: 2013-09-05
 category: articles
 image:
-    feature: us_trip.jpg
+    feature: grand_canyon.jpg
 comments: true
 ---
 
