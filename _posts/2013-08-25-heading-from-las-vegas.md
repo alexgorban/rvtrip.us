@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Дорога из Лас Вегаса
-description: День третий
+title: Red Rocks
 modified: 2013-09-05
 category: articles
 image:

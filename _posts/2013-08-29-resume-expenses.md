@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Резюме: расходы"
+title: "Итоги: расходы"
 modified: 2013-09-05
 category: articles
 tags: gps

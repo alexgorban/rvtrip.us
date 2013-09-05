@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Реземе"
+title: "Выводы"
 modified: 2013-09-05
 category: articles
 tags: gps
