@@ -5,7 +5,7 @@ description: День третий
 modified: 2013-09-05
 category: articles
 image:
-    feature: us_trip.jpg
+    feature: disneyland.jpg
 comments: true
 ---
 
