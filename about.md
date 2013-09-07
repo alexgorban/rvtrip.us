@@ -3,7 +3,7 @@ layout: page
 permalink: /about/index.html
 title: Об этом блоге
 image:
-  feature: 20130824_184945.jpg
+    feature: 20130824_204511.jpg
 ---
 
 В этом небольшом блоге мы с моей женой попытались передать незабываемые
