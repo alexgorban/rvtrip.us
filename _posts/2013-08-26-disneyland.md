@@ -2,7 +2,7 @@
 layout: post
 title: Диснейленд
 description: День третий
-modified: 2013-09-05
+modified: 2013-09-14
 category: articles
 image:
     feature: disneyland.jpg
@@ -159,7 +159,7 @@ comments: true
 
 ![Call to Russia](/images/disney_call.jpg)
 
-[Фотоальбом из Деснейленда][disneylandphotos] **еще не готов**
+[Фотоальбом из Деснейленда][disneylandphotos]
 
 Вернувшись в RV мы сразу же выехали в Yosemite Park.
 
@@ -173,4 +173,4 @@ Star Wars forever[^2]
 [parking]: https://disneyland.disney.go.com/guest-services/parking/
 [fiesta]: http://www.sixflags.com/fiestaTexas/index.aspx
 [startour]: https://disneyland.disney.go.com/attractions/disneyland/star-tours/
-[disneylandphotos]: http://rvtrip.us
+[disneylandphotos]: https://plus.google.com/photos/116145800405946897560/albums/5923297640536115121?authkey=CIXis4mplP31CA
